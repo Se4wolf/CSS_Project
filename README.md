@@ -5,7 +5,7 @@
 ## Актуальность
 С помощью языка стилей CSS и языка разметки HTML можно создавать интересные решения для ваших сайтов, они повысят оригинальность и привлекательность ваших проектов.
 <p align="center">
-<img src="Examples/CSSandHTMLlogo.png" width="400" height="300" alt=""><br>
+<img src="Examples/CSSandHTMLlogo.png" width="300" height="200" alt=""><br>
 <i>Используемые языки стилей и разметок</i>
 </p>  
 
@@ -21,4 +21,5 @@
 </p>
 
 ### Контакты
-* Смоделировал: <a href="https://vk.com/doobada">Артём Богданов</a>
+* VK: <a href="https://vk.com/doobada">Артём Богданов</a>
+* mail: bogdanov200412@gmail.com
